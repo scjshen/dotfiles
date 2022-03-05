@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = 362700182@qq.com
+	name = Chengjie Shen
